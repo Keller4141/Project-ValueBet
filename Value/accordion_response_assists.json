@@ -1,0 +1,4873 @@
+{
+  "data": {
+    "accordions": {
+      "gi--687518740": {
+        "markets": [
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "2719",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Ryan Gravenberch"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Ryan Gravenberch",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-626838",
+            "label": "Spillers samlede antal assister | Ryan Gravenberch",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "2546",
+                  "groupLevel": "2",
+                  "sort": 11.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Jeremie Frimpong"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Jeremie Frimpong",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1205515",
+            "label": "Spillers samlede antal assister | Jeremie Frimpong",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "694771",
+                  "groupLevel": "2",
+                  "sort": 10.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Rio Ngumoha"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Rio Ngumoha",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533587",
+            "label": "Spillers samlede antal assister | Rio Ngumoha",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "2927",
+                  "groupLevel": "2",
+                  "sort": 10.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Dominik Szoboszlai"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Dominik Szoboszlai",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-877988",
+            "label": "Spillers samlede antal assister | Dominik Szoboszlai",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "184",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Curtis Jones"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Curtis Jones",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1053392",
+            "label": "Spillers samlede antal assister | Curtis Jones",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "392804",
+                  "groupLevel": "2",
+                  "sort": 11.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Jayden Danns"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Jayden Danns",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-5998299",
+            "label": "Spillers samlede antal assister | Jayden Danns",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "181",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Joe Gomez"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Joe Gomez",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-638010",
+            "label": "Spillers samlede antal assister | Joe Gomez",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "314953",
+                  "groupLevel": "2",
+                  "sort": 12.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Conor Bradley"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Conor Bradley",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2869207",
+            "label": "Spillers samlede antal assister | Conor Bradley",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "6092",
+                  "groupLevel": "2",
+                  "sort": 10.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Cody Gakpo"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Cody Gakpo",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-533354",
+            "label": "Spillers samlede antal assister | Cody Gakpo",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "508",
+                  "groupLevel": "2",
+                  "sort": 3.8,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Martin Ødegaard"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Martin Ødegaard",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-251671",
+            "label": "Spillers samlede antal assister | Martin Ødegaard",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "6305",
+                  "groupLevel": "2",
+                  "sort": 4.25,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Noni Madueke"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Noni Madueke",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1127036",
+            "label": "Spillers samlede antal assister | Noni Madueke",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "252",
+                  "groupLevel": "2",
+                  "sort": 4.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Eberechi Eze"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Eberechi Eze",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-500576",
+            "label": "Spillers samlede antal assister | Eberechi Eze",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "657406",
+                  "groupLevel": "2",
+                  "sort": 5.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Josh Nichols"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Josh Nichols",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533471",
+            "label": "Spillers samlede antal assister | Josh Nichols",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "747638",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Carter Pinnington"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Carter Pinnington",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7797012",
+            "label": "Spillers samlede antal assister | Carter Pinnington",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "588111",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Rhys Williams"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Rhys Williams",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2209408",
+            "label": "Spillers samlede antal assister | Rhys Williams",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "968",
+                  "groupLevel": "2",
+                  "sort": 8.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Federico Chiesa"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Federico Chiesa",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6636897",
+            "label": "Spillers samlede antal assister | Federico Chiesa",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "688",
+                  "groupLevel": "2",
+                  "sort": 4.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Declan Rice"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Declan Rice",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-407953",
+            "label": "Spillers samlede antal assister | Declan Rice",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "632",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Kai Havertz"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Kai Havertz",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-390661",
+            "label": "Spillers samlede antal assister | Kai Havertz",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "356439",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Treymaurice Nyoni"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Treymaurice Nyoni",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6026765",
+            "label": "Spillers samlede antal assister | Treymaurice Nyoni",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "747636",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Wellity Lucky"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Wellity Lucky",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7418511",
+            "label": "Spillers samlede antal assister | Wellity Lucky",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "548",
+                  "groupLevel": "2",
+                  "sort": 5.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Ethan Nwaneri"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Ethan Nwaneri",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-4171386",
+            "label": "Spillers samlede antal assister | Ethan Nwaneri",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "314744",
+                  "groupLevel": "2",
+                  "sort": 9.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Viktor Gyökeres"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Viktor Gyökeres",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-366307",
+            "label": "Spillers samlede antal assister | Viktor Gyökeres",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "134",
+                  "groupLevel": "2",
+                  "sort": 10.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Hugo Ekitike"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Hugo Ekitike",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1941095",
+            "label": "Spillers samlede antal assister | Hugo Ekitike",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "2535",
+                  "groupLevel": "2",
+                  "sort": 9.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Piero Hincapie"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Piero Hincapie",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2805856",
+            "label": "Spillers samlede antal assister | Piero Hincapie",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "655539",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Tommy Pilling"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Tommy Pilling",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7017460",
+            "label": "Spillers samlede antal assister | Tommy Pilling",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "545758",
+                  "groupLevel": "2",
+                  "sort": 8.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Calvin Ramsay"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Calvin Ramsay",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2847220",
+            "label": "Spillers samlede antal assister | Calvin Ramsay",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "314378",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Milos Kerkez"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Milos Kerkez",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-3405103",
+            "label": "Spillers samlede antal assister | Milos Kerkez",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "657414",
+                  "groupLevel": "2",
+                  "sort": 4.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Louie Copley"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Louie Copley",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533466",
+            "label": "Spillers samlede antal assister | Louie Copley",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "667220",
+                  "groupLevel": "2",
+                  "sort": 6.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Max Dowman"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Max Dowman",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533465",
+            "label": "Spillers samlede antal assister | Max Dowman",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "350",
+                  "groupLevel": "2",
+                  "sort": 11.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Christian Nørgaard"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Christian Nørgaard",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-157773",
+            "label": "Spillers samlede antal assister | Christian Nørgaard",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "444",
+                  "groupLevel": "2",
+                  "sort": 12.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Alexis Mac Allister"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Alexis Mac Allister",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-401328",
+            "label": "Spillers samlede antal assister | Alexis Mac Allister",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "506",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Gabriel Magalhaes"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Gabriel Magalhaes",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-64128",
+            "label": "Spillers samlede antal assister | Gabriel Magalhaes",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "354208",
+                  "groupLevel": "2",
+                  "sort": 10.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Kaide Gordon"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Kaide Gordon",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6026761",
+            "label": "Spillers samlede antal assister | Kaide Gordon",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "322103",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Riccardo Calafiori"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Riccardo Calafiori",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-4303689",
+            "label": "Spillers samlede antal assister | Riccardo Calafiori",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "203",
+                  "groupLevel": "2",
+                  "sort": 12.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Andrew Robertson"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Andrew Robertson",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-61286",
+            "label": "Spillers samlede antal assister | Andrew Robertson",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "2503",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Wataru Endo"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Wataru Endo",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-386818",
+            "label": "Spillers samlede antal assister | Wataru Endo",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "6927",
+                  "groupLevel": "2",
+                  "sort": 11.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Jurrien Timber"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Jurrien Timber",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1047234",
+            "label": "Spillers samlede antal assister | Jurrien Timber",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "1809",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Martin Zubimendi"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Martin Zubimendi",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1007322",
+            "label": "Spillers samlede antal assister | Martin Zubimendi",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "504",
+                  "groupLevel": "2",
+                  "sort": 5.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Gabriel Martinelli"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Gabriel Martinelli",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1126986",
+            "label": "Spillers samlede antal assister | Gabriel Martinelli",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "655536",
+                  "groupLevel": "2",
+                  "sort": 7.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Keyrol Figueroa"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Keyrol Figueroa",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7797013",
+            "label": "Spillers samlede antal assister | Keyrol Figueroa",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "358899",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Myles Lewis-skelly"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Myles Lewis-skelly",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-5723142",
+            "label": "Spillers samlede antal assister | Myles Lewis-skelly",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "511",
+                  "groupLevel": "2",
+                  "sort": 4.75,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Gabriel Jesus"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Gabriel Jesus",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-309096",
+            "label": "Spillers samlede antal assister | Gabriel Jesus",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "655542",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Michael Laffey"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Michael Laffey",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7418512",
+            "label": "Spillers samlede antal assister | Michael Laffey",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "443",
+                  "groupLevel": "2",
+                  "sort": 4.25,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Leandro Trossard"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Leandro Trossard",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-318909",
+            "label": "Spillers samlede antal assister | Leandro Trossard",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "8726",
+                  "groupLevel": "2",
+                  "sort": 4.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Charles Sagoe Jr"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Charles Sagoe Jr",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6043758",
+            "label": "Spillers samlede antal assister | Charles Sagoe Jr",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "1702",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Cristhian Mosquera"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Cristhian Mosquera",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-3155870",
+            "label": "Spillers samlede antal assister | Cristhian Mosquera",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "510",
+                  "groupLevel": "2",
+                  "sort": 10.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Ben White"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Ben White",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-484514",
+            "label": "Spillers samlede antal assister | Ben White",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "221",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Stefan Bajcetic"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Stefan Bajcetic",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-4303593",
+            "label": "Spillers samlede antal assister | Stefan Bajcetic",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "201",
+                  "groupLevel": "2",
+                  "sort": 19.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Virgil van Dijk"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Virgil van Dijk",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-145573",
+            "label": "Spillers samlede antal assister | Virgil van Dijk",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "394038",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Amara Nallo"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Amara Nallo",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6026770",
+            "label": "Spillers samlede antal assister | Amara Nallo",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "2533",
+                  "groupLevel": "2",
+                  "sort": 7.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Florian Wirtz"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Florian Wirtz",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1567354",
+            "label": "Spillers samlede antal assister | Florian Wirtz",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "502",
+                  "groupLevel": "2",
+                  "sort": 19.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "William Saliba"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | William Saliba",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-773391",
+            "label": "Spillers samlede antal assister | William Saliba",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "183",
+                  "groupLevel": "2",
+                  "sort": 19.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Ibrahima Konate"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Ibrahima Konate",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-502128",
+            "label": "Spillers samlede antal assister | Ibrahima Konate",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "655543",
+                  "groupLevel": "2",
+                  "sort": 14.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Trent Kone-Doherty"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Trent Kone-Doherty",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6357271",
+            "label": "Spillers samlede antal assister | Trent Kone-Doherty",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "1811",
+                  "groupLevel": "2",
+                  "sort": 5.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Mikel Merino"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Mikel Merino",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-396697",
+            "label": "Spillers samlede antal assister | Mikel Merino",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "737027",
+                  "groupLevel": "2",
+                  "sort": 7.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Marli Salmon"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Marli Salmon",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533467",
+            "label": "Spillers samlede antal assister | Marli Salmon",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "404000",
+                  "groupLevel": "2",
+                  "sort": 16.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Giovanni Leoni"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Giovanni Leoni",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-5839798",
+            "label": "Spillers samlede antal assister | Giovanni Leoni",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "671437",
+                  "groupLevel": "2",
+                  "sort": 5.5,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Andre HarrimanAnnous"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Andre HarrimanAnnous",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7267334",
+            "label": "Spillers samlede antal assister | Andre HarrimanAnnous",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "507",
+                  "groupLevel": "2",
+                  "sort": 3.4,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Bukayo Saka"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Bukayo Saka",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-697513",
+            "label": "Spillers samlede antal assister | Bukayo Saka",
+            "isHomeTeam": false
+          },
+          {
+            "eventId": "f-qVwkGHeCnkqUw57URgWf7g",
+            "marketTemplateId": "PLYPROPGASM",
+            "lineValue": "",
+            "lineValueRaw": 0.0,
+            "status": "Open",
+            "validationRule": {
+              "code": 1,
+              "value": "NotWithinSameEvent"
+            },
+            "deadline": "2026-01-08T20:00:00Z",
+            "isCashoutAvailable": true,
+            "columnLayout": 1,
+            "helpText": "",
+            "isGroupableByMarketTemplate": true,
+            "betGroupDescription": "",
+            "marketTemplateTags": [
+              106,
+              134,
+              101,
+              133
+            ],
+            "marketSpecifics": {
+              "groupSortBy": [
+                {
+                  "group": "PlayerProps",
+                  "groupLevel": "0",
+                  "groupType": 0
+                },
+                {
+                  "group": "PLYPROPGASM",
+                  "groupLevel": "1",
+                  "groupType": 2
+                },
+                {
+                  "group": "597431",
+                  "groupLevel": "2",
+                  "sort": 7.0,
+                  "groupType": 3
+                },
+                {
+                  "groupLevel": "3",
+                  "sort": 0.5,
+                  "groupType": 0
+                }
+              ],
+              "groupLabels": {
+                "1": "Spillers samlede antal assister",
+                "2": "Kieran Morrison"
+              },
+              "groupTranslations": {}
+            },
+            "sortOrder": 25600,
+            "marketFriendlyName": "Spillers samlede antal assister | Kieran Morrison",
+            "marketVersion": 2,
+            "betBuilderAvailability": {
+              "state": 1,
+              "data": {},
+              "isHomeTeam": false
+            },
+            "originSelections": {},
+            "id": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6357269",
+            "label": "Spillers samlede antal assister | Kieran Morrison",
+            "isHomeTeam": false
+          }
+        ],
+        "selections": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-626838",
+            "odds": 14.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "626838",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "14.00"
+            },
+            "id": "s-70543C4AAC2809F1F3CC9DAF5141F9439315860A",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1205515",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1205515",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-B03F4A6B28A6DCD6856755E0CFF5E41CA5BE4B4E",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533587",
+            "odds": 10.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7533587",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "10.00"
+            },
+            "id": "s-39A7FE0B1810E4ED6D6EB81DA7600AE70C3952D5",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-877988",
+            "odds": 10.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "877988",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "10.00"
+            },
+            "id": "s-79A0CA80E5B35C92642FC2FD9CE135EFE3C7FF3F",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1053392",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1053392",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-4F985D1CDA1E3865116DD22C6B4617BA667F9982",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-5998299",
+            "odds": 9.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "5998299",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "9.00"
+            },
+            "id": "s-D7BBAEE7DB84B5EAF832443C5D7A9818D527C129",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-638010",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "638010",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-8D0F0E4454F03D789CF10744C4D9080B7E4488EC",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2869207",
+            "odds": 14.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "2869207",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "14.00"
+            },
+            "id": "s-4CE29C48D048913D10FE70DDE62C531FAA75FE80",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-533354",
+            "odds": 9.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "533354",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "9.00"
+            },
+            "id": "s-D4519BD88122E0665408F518AB04199DD4EE16EA",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-251671",
+            "odds": 5.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "251671",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "5.50"
+            },
+            "id": "s-04435E463B4E44B41DB8130ACFA91DA8D4CBEFA9",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1127036",
+            "odds": 4.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1127036",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.50"
+            },
+            "id": "s-46B1C2EA7B7461E6204B4DC9648C3D04479F7085",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-500576",
+            "odds": 4.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "500576",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.00"
+            },
+            "id": "s-F565EDE19D2970248664163439A6C580F9DC6899",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533471",
+            "odds": 7.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7533471",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "7.50"
+            },
+            "id": "s-B1BB752BAE3F7C0D95FE5E1677EF0ECF7C21E777",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7797012",
+            "odds": 14.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7797012",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "14.00"
+            },
+            "id": "s-319B40F454F2864A03C470A393DC01193991FC56",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2209408",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "2209408",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-62BC02CFD49E645447A49D0CEFFE1FC485475A4E",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6636897",
+            "odds": 8.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6636897",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "8.50"
+            },
+            "id": "s-B61562FBBA339127C9F6EC752109B19EA4E3FB1A",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-407953",
+            "odds": 5.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "407953",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "5.50"
+            },
+            "id": "s-F36918106A400E896D0268EE64E5A0CF9895A430",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-390661",
+            "odds": 5.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "390661",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "5.50"
+            },
+            "id": "s-CB51966ABF12CFE48B5DDDFCAC91E2524BD9FD56",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6026765",
+            "odds": 16.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6026765",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "16.00"
+            },
+            "id": "s-D1938B5DEBDBA178CEDE2359E280B8E95242EB30",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7418511",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7418511",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-6A1D0CBC02CC3682B00B995E1A01DC385088E884",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-4171386",
+            "odds": 5.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "4171386",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "5.50"
+            },
+            "id": "s-C984123947DB9F9714B27FEA356CA6FDA7ABFA5F",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-366307",
+            "odds": 4.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "366307",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.50"
+            },
+            "id": "s-D5A2E76ADFBFC5F4D79FCB338F8F70353C1E87B4",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1941095",
+            "odds": 7.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1941095",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "7.50"
+            },
+            "id": "s-2EBBA2B995E58DCF1434C948910A7898B4EE0D9B",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2805856",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "2805856",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-BD71F8BB0DFBA9790D45B26112C9A90053E72728",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7017460",
+            "odds": 10.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7017460",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "10.00"
+            },
+            "id": "s-082C0DE30819E43CCDD5A7D6D1BC4CFAAC0A2839",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-2847220",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "2847220",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-771E656EAF907070774DBEB0E2D1220C9F657BA8",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-3405103",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "3405103",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-C7ADEC31EF8C2A5A1E30F9100C2D8978BE3D1FD4",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533466",
+            "odds": 6.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7533466",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "6.00"
+            },
+            "id": "s-4C38F6CB91F1A465475CC1FF8C29FD9043B22DB2",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533465",
+            "odds": 6.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7533465",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "6.00"
+            },
+            "id": "s-A1D61EA9EFA1F60800A6EB034DB1E66BC6D3C765",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-157773",
+            "odds": 10.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "157773",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "10.00"
+            },
+            "id": "s-37EB197F65BFF5AB508D11BF36882C93956AE5C7",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-401328",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "401328",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-58E378F7DD0382580CD6806CD194BE79A6A2AD6C",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-64128",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "64128",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-9FE00DA45FFA46827FFE757DD0D0C134CA70601C",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6026761",
+            "odds": 11.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6026761",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "11.00"
+            },
+            "id": "s-275C46FEE58EFB6D3D0D1E3D74E1BE065E5F1C62",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-4303689",
+            "odds": 9.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "4303689",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "9.00"
+            },
+            "id": "s-5E2B20CCEF42370C2FCCDF20D1435B54D0C604F4",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-61286",
+            "odds": 14.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "61286",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "14.00"
+            },
+            "id": "s-D5CD5E2A5F068F76E1153E74F962FAD2B2D303BC",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-386818",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "386818",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-1675178F8FCF5E0D440AB67578B27991DD15CDFB",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1047234",
+            "odds": 11.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1047234",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "11.00"
+            },
+            "id": "s-4A9F56E420F8E9D513C6F463C820CFD668639718",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1007322",
+            "odds": 9.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1007322",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "9.00"
+            },
+            "id": "s-957B898A48FFAF6E264296D3563883259E391BBA",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1126986",
+            "odds": 5.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1126986",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "5.00"
+            },
+            "id": "s-1BF2D3FA65D0533BE5C919618E6BC52420EA76B4",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7797013",
+            "odds": 7.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7797013",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "7.50"
+            },
+            "id": "s-AFCEA81C05B2AE2BEA8C167D128FA9D4E1D12E40",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-5723142",
+            "odds": 9.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "5723142",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "9.00"
+            },
+            "id": "s-1224ACD0EEBB18C880F1842DAAEB2D07003AC583",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-309096",
+            "odds": 4.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "309096",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.00"
+            },
+            "id": "s-FEEFEDC1912ED272AFC3EBB37E1B817378B1F3B9",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7418512",
+            "odds": 7.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7418512",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "7.50"
+            },
+            "id": "s-4E221A1CEC738CD9C6A087C958FFC9B6EEE116C9",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-318909",
+            "odds": 4.25,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "318909",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.25"
+            },
+            "id": "s-BFBD428539836E951FC42D0D9C346133A52D99C9",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6043758",
+            "odds": 4.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6043758",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.00"
+            },
+            "id": "s-6B078BFA3DC3073256FE5CFB9EF8FCE42E51C132",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-3155870",
+            "odds": 16.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "3155870",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "16.00"
+            },
+            "id": "s-430698947F93BF61120AF1EC90F02F8EDC43E8AC",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-484514",
+            "odds": 11.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "484514",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "11.00"
+            },
+            "id": "s-55FFB83CBBAE31B3D315DB75227AC43D4266A57B",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-4303593",
+            "odds": 16.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "4303593",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "16.00"
+            },
+            "id": "s-33CE89645377A94F5A2686CB5699758F1BA8AA70",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-145573",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "145573",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-D7D6B6D60B5311CF29EE9C54121A7C1D5AFEDB70",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6026770",
+            "odds": 14.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6026770",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "14.00"
+            },
+            "id": "s-F472A75437ECE870237B8B048E4A1269388D4932",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-1567354",
+            "odds": 9.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "1567354",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "9.00"
+            },
+            "id": "s-1593971484BB4633C6C66DA883F3D8650952E077",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-773391",
+            "odds": 14.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "773391",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "14.00"
+            },
+            "id": "s-47A4E34E7374F5AF1D82FE20576EA52D7F44A230",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-502128",
+            "odds": 19.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "502128",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "19.00"
+            },
+            "id": "s-D57D6C97C5621E373ABB024E860854F901CE10AC",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6357271",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6357271",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-8964AA313D6ED2BB1F0D678C314C285CECF004E2",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-396697",
+            "odds": 4.75,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "396697",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "4.75"
+            },
+            "id": "s-91806281B25268F1B28A1D4055FAB8EFE065A401",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7533467",
+            "odds": 12.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7533467",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "12.00"
+            },
+            "id": "s-68A7B6BA65B9FD9106E19C2C92081BB81DC4D0DD",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-5839798",
+            "odds": 16.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "5839798",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "16.00"
+            },
+            "id": "s-0B5545334D1EB90BFAC5EB1371296DEED015395C",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-7267334",
+            "odds": 5.50,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "7267334",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "5.50"
+            },
+            "id": "s-774715C0CA2BDF88633718407B5563D79C6FE303",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-697513",
+            "odds": 3.40,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "697513",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "3.40"
+            },
+            "id": "s-598198E1ACD680F10D144C4CC0EAC9D60B740273",
+            "label": "Over 0.5",
+            "isHomeTeam": true
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-6357269",
+            "odds": 10.00,
+            "alternateLabel": "Over 0.5",
+            "status": "Open",
+            "sortOrder": 1,
+            "participantId": "6357269",
+            "participantLabel": "Over 0.5",
+            "selectionTemplateId": "OVERASSISTS",
+            "marketSelectionPriceFormats": {
+              "1": "10.00"
+            },
+            "id": "s-DBAABE533E89B79CD790AA7722701AC9504E6E98",
+            "label": "Over 0.5",
+            "isHomeTeam": false
+          }
+        ]
+      }
+    }
+  },
+  "referenceId": "571b0473-0f63-4baf-b3ea-f32f6e9464a5"
+}

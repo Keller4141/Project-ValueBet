@@ -1,0 +1,4270 @@
+{
+  "betBuilderPrices": [
+    {
+      "fixtureId": "f-qVwkGHeCnkqUw57URgWf7g",
+      "oddsFormats": {
+        "decimal": "1682.38"
+      }
+    }
+  ],
+  "failedRequests": {},
+  "failedRequestsWithErrorCodes": {},
+  "supportingMarkets": {
+    "f-qVwkGHeCnkqUw57URgWf7g": [
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-7017460",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-4303593",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-6026765",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-366307",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-145573",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-386818",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPGASM-0.5-401328",
+        "templateId": "PLYPROPGASM",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-PLYPROPFOU-0.5-401328",
+        "templateId": "PLYPROPFOU",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-14D9E19997D268F3763C4E9B106E7F334E6B5FFB",
+        "templateId": "PLYPROP1WTSHOTON",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-0AB2AD2BA7A0868C2FF310BBB8149DF87A088941",
+        "templateId": "PLYPROP1WTSHOTON",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "marketId": "m-5EE9949F71065EC860B4224DD2991EFA70AFD9EF",
+        "templateId": "PLYPROP1WTSHOTS",
+        "status": "Open",
+        "markets": [
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-under",
+                "oddsFormats": {
+                  "decimal": "1.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5-over",
+                "oddsFormats": {
+                  "decimal": "6.47"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-under",
+                "oddsFormats": {
+                  "decimal": "1.89"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5-over",
+                "oddsFormats": {
+                  "decimal": "1.87"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-under",
+                "oddsFormats": {
+                  "decimal": "12.00"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5-over",
+                "oddsFormats": {
+                  "decimal": "1.05"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-under",
+                "oddsFormats": {
+                  "decimal": "3.58"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5-over",
+                "oddsFormats": {
+                  "decimal": "1.27"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-under",
+                "oddsFormats": {
+                  "decimal": "1.32"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5-over",
+                "oddsFormats": {
+                  "decimal": "3.25"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5",
+            "templateId": "MTG2W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-under",
+                "oddsFormats": {
+                  "decimal": "1.03"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5-over",
+                "oddsFormats": {
+                  "decimal": "14.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-23ACCA00A2CCD90CA31C9DBCB74E8DFD38F6237E",
+                "oddsFormats": {
+                  "decimal": "1.73"
+                }
+              },
+              {
+                "selectionId": "s-38B4F42890C2BBAACC9791AED3D523DA4D7B8764",
+                "oddsFormats": {
+                  "decimal": "2.16"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25",
+            "templateId": "MAHCP",
+            "status": "Suspended",
+            "selections": [
+              {
+                "selectionId": "s-3EE1B36EC4BE34935624AAF35A7E093D0E478965",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              },
+              {
+                "selectionId": "s-2835599ACA3B5BE370A46AE36FF5753BDBAB8A07",
+                "oddsFormats": {
+                  "decimal": "1.00"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "2.01"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "1.83"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-21521950D51F7E2A5301D1B188E36AD375E798A1",
+                "oddsFormats": {
+                  "decimal": "1.58"
+                }
+              },
+              {
+                "selectionId": "s-FD72C8D378ABFBB965117DB68D0860752570E272",
+                "oddsFormats": {
+                  "decimal": "2.44"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-7C981DA60F273D5B3B16BFDD3F4C8080E2D54E8B",
+                "oddsFormats": {
+                  "decimal": "2.36"
+                }
+              },
+              {
+                "selectionId": "s-D77BC6432137EA4EE39EC2CF1FC8F20701418412",
+                "oddsFormats": {
+                  "decimal": "1.62"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5",
+            "templateId": "MAHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-57AA8D0B12E8C6CB14178DFF55CFB59BEFFF6191",
+                "oddsFormats": {
+                  "decimal": "2.71"
+                }
+              },
+              {
+                "selectionId": "s-C0F0514B2260172EA4EE3697ABC054B40E24B2EC",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-6E74A1B15BED78F8F76CCB86CFB79E8193A93BB1",
+                "oddsFormats": {
+                  "decimal": "5.43"
+                }
+              },
+              {
+                "selectionId": "s-E8E94E86A527A92897C01372EAB78D9328271B07",
+                "oddsFormats": {
+                  "decimal": "4.52"
+                }
+              },
+              {
+                "selectionId": "s-8E9F07E5934B1EAA8AEA6EA5A7E48BF2006151A9",
+                "oddsFormats": {
+                  "decimal": "1.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicaphome",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapdraw",
+                "oddsFormats": {
+                  "decimal": "7.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1-handicapaway",
+                "oddsFormats": {
+                  "decimal": "16.49"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-D194A2BE68106C1A8DF41F2D169A91B49603244A",
+                "oddsFormats": {
+                  "decimal": "14.46"
+                }
+              },
+              {
+                "selectionId": "s-6A1363F76B23E73DCA635FAF26E81445F834AFB3",
+                "oddsFormats": {
+                  "decimal": "7.95"
+                }
+              },
+              {
+                "selectionId": "s-85777F6C8DBA419B1B156EEAAADB6D9C47E74553",
+                "oddsFormats": {
+                  "decimal": "1.14"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1",
+            "templateId": "M3WHCP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-EAFC021926EA087A2F7900148639FACB2058571D",
+                "oddsFormats": {
+                  "decimal": "2.69"
+                }
+              },
+              {
+                "selectionId": "s-F6B3A06ABA534644837DF194E7EF4E67F92385BB",
+                "oddsFormats": {
+                  "decimal": "3.37"
+                }
+              },
+              {
+                "selectionId": "s-7548ED04ED387FA6B102CA28018EF411A8CB5D5A",
+                "oddsFormats": {
+                  "decimal": "2.46"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W",
+            "templateId": "MW3W",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-home",
+                "oddsFormats": {
+                  "decimal": "1.55"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-draw",
+                "oddsFormats": {
+                  "decimal": "4.10"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W-away",
+                "oddsFormats": {
+                  "decimal": "5.60"
+                }
+              }
+            ]
+          },
+          {
+            "marketId": "m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP",
+            "templateId": "MW3W2UPEP",
+            "status": "Open",
+            "selections": [
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-home",
+                "oddsFormats": {
+                  "decimal": "1.52"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-draw",
+                "oddsFormats": {
+                  "decimal": "3.90"
+                }
+              },
+              {
+                "selectionId": "s-m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP-away",
+                "oddsFormats": {
+                  "decimal": "5.35"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "topics": {
+    "f-qVwkGHeCnkqUw57URgWf7g": {
+      "markets": [
+        "?obg/sportsbook/transient/markets/f-qVwkGHeCnkqUw57URgWf7g/(?:m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1|m-f-qVwkGHeCnkqUw57URgWf7g-MW3W|m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP):.*/"
+      ]
+    }
+  },
+  "topicsMap": {
+    "topicEventMap": {
+      "?obg/sportsbook/transient/markets/f-qVwkGHeCnkqUw57URgWf7g/(?:m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1|m-f-qVwkGHeCnkqUw57URgWf7g-MW3W|m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP):.*/": [
+        "f-qVwkGHeCnkqUw57URgWf7g"
+      ]
+    },
+    "eventTopicMap": {
+      "f-qVwkGHeCnkqUw57URgWf7g": [
+        "?obg/sportsbook/transient/markets/f-qVwkGHeCnkqUw57URgWf7g/(?:m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-4.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-2.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-0.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-1.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-3.5|m-f-qVwkGHeCnkqUw57URgWf7g-MTG2W-5.5|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.75|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.25|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--0.5|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.25|m-f-qVwkGHeCnkqUw57URgWf7g-MAHCP--1.5|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--2|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP-1|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--3|m-f-qVwkGHeCnkqUw57URgWf7g-M3WHCP--1|m-f-qVwkGHeCnkqUw57URgWf7g-MW3W|m-f-qVwkGHeCnkqUw57URgWf7g-MW3W2UPEP):.*/"
+      ]
+    }
+  }
+}
